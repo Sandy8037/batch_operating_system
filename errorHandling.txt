@@ -1,0 +1,1 @@
+BATCH PACKET does not contain **INPUT
